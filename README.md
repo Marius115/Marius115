@@ -1,9 +1,13 @@
-### Hi there 👋
+### console.log( Hello there👋:seedling:)
 
-<!--
-**Marius115/Marius115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mariano Cascarano, a Fullstack web developer with a main focus for Frontend development.
 
-Here are some ideas to get you started:
++:gem: Open to new oportunities
++:art: I love to customize everything
++You can contact me on [Linkedin](www.linkedin.com/in/marianocascarano)
++:round_pushpin: Based in Caracas,Venezuela.
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
