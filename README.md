@@ -1,4 +1,7 @@
-## console.log( Hello there👋:seedling:)
+<h1 align="center">
+console.log( Hello there👋:seedling:)
+</h1>
+
 
 I'm Mariano Cascarano, a Fullstack web developer with a main focus for Frontend development.
 
@@ -8,26 +11,31 @@ I'm Mariano Cascarano, a Fullstack web developer with a main focus for Frontend 
 - :round_pushpin: Based in Caracas,Venezuela.
 
 * * *
-- - -
-_ _ _
 
-### Skills and Tools :nut_and_bolt: :wrench: 
+<h2 align="center">
+Skills and Tools :nut_and_bolt: :wrench: 
+</h2>
+
 
 <h2> Frontend :computer: </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
 </p>
 
+
+
 <h2> Backend :electric_plug: </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="flask" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="sql" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
 </p>
+
+
 
 <h2> Skills :rocket: </h2>
 <p align="left">
