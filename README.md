@@ -2,10 +2,10 @@
 
 I'm Mariano Cascarano, a Fullstack web developer with a main focus for Frontend development.
 
-+:gem: Open to new oportunities
-+:art: I love to customize everything
-+You can contact me on [Linkedin](www.linkedin.com/in/marianocascarano)
-+:round_pushpin: Based in Caracas,Venezuela.
+- :gem: Open to new oportunities
+- :art: I love to customize everything
+- You can contact me on [Linkedin](www.linkedin.com/in/marianocascarano)
+- :round_pushpin: Based in Caracas,Venezuela.
 
 
 
