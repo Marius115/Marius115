@@ -7,7 +7,7 @@ I'm Mariano Cascarano, a Fullstack web developer with a main focus for Frontend 
 
 - :gem: Open to new oportunities
 - :art: I love to customize everything
-- You can contact me on <a href="https://www.instagram.com/thepiyushmalhotra/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+- You can contact me on [LinkedIn]((https://www.linkedin.com/in/marianocascarano/)
 - :round_pushpin: Based in Caracas,Venezuela.
 
 * * *
@@ -20,9 +20,9 @@ Skills and Tools :nut_and_bolt: :wrench:
 <h2> Frontend :computer: </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-  
+<p>&nbsp;</p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
-  
+<p>&nbsp;</p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
