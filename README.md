@@ -55,8 +55,8 @@ Backend
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" /></td>
     <td><img src="https://i.imgur.com/aXtGQv4.png" alt="sql" width="45" height="45"/></td>
-    <td align="center"><i class="devicon-sqlalchemy-plain"></i></td> 
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="mysql" width="45" height="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="sqlalchemy" width="45" height="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="mysql" width="45" height="45"/></td>
   </tr>
 </table>
