@@ -13,7 +13,7 @@ I'm Mariano Cascarano, a Fullstack web developer with a main focus for Frontend 
 * * *
 
 <h2 align="center">
-Skills and Tools :toolbox:
+Skills and Tools :toolbox: :brain:
 </h2>
 
 
@@ -49,14 +49,14 @@ Backend
     <th>Python</th>
     <th>SQL</th>
     <th>SQAlchemy</th>
-    <th>mysql</th>
+    <th>Mysql</th>
     <th>PostgreSQL</th>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" /></td>
     <td><img src="https://i.imgur.com/aXtGQv4.png" alt="sql" width="45" height="45"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="45" height="45"/></td> 
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/></td>
+    <td align="center"><i class="devicon-sqlalchemy-plain"></i></td> 
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="mysql" width="45" height="45"/></td>
   </tr>
 </table>
