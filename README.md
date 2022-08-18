@@ -1,24 +1,26 @@
 <h1 align="center">
-console.log( Hello there :v: :mage_man:  )
+console.log( Hello There! :v: :mage_man:  )
 </h1>
 
 
 I'm Mariano Cascarano, a Fullstack web developer with a main focus for Frontend development.
+Looking for the next proyect that can challenge all my skills and learn more from it
 
 - :gem: Open to new oportunities
 - :art: I love to customize everything
-- You can contact me on [LinkedIn](https://www.linkedin.com/in/marianocascarano/)
 - :round_pushpin: Based in Caracas,Venezuela :venezuela:
+- You can contact me on [LinkedIn](https://www.linkedin.com/in/marianocascarano/)
 
-* * *
+
 
 <h2 align="center">
 Skills and Tools :toolbox: :brain:
 </h2>
+* * *
 
 
 <h3 align="center">
-Frontend
+Frontend :star:
 </h3>
 
 <table align="center">
@@ -41,7 +43,7 @@ Frontend
 <p>&nbsp;</p>
 
 <h3 align="center">
-Backend
+Backend :telescope:
 </h3>
 
 <table align="center">
