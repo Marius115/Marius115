@@ -44,7 +44,7 @@ Frontend
 Backend
 </h3>
 
-<table>
+<table align="center">
   <tr>
     <th>Python</th>
     <th>SQL</th>
@@ -55,9 +55,9 @@ Backend
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" /></td>
     <td><img src="https://i.imgur.com/aXtGQv4.png" alt="sql" width="45" height="45"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="45" height="45"/></td> 
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="45" height="45"/></td> 
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="mysql" width="45" height="45"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="mysql" width="45" height="45"/></td>
   </tr>
 </table>
 
@@ -67,13 +67,12 @@ Backend
 Skills :rocket:
 </h3>
 
-<table>
+<table align="center">
   <tr>
     <th>VSCode</th>
     <th>Canva</th>
     <th>Figma</th>
     <th>Git</th>
-    <th></th>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/></td>
